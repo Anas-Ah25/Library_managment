@@ -32,9 +32,11 @@ docker run -p 5000:5000 library-management-api
 ```
 
 ### 4. **Verify the API is Running**
-Once the container is running, you can access the API on:
+Once the container is running, you can access the API and test specified routes using the documentation or postman by targeting an endpoint:
 ```
+Base:
 http://127.0.0.1:5000
+
 ```
 
 ---
