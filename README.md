@@ -18,7 +18,7 @@ cd <repository-folder>
 ```
 
 ### 2. **Build the Docker Image**
-Build the Docker image for the application. Ensure you are in the directory containing the `Dockerfile`.
+Build the Docker image for the application. Ensure you are in the directory containing the `Dockerfile`, same directory of the folder you will open.
 
 ```bash
 docker build -t library-management-api .
