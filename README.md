@@ -50,7 +50,7 @@ The Swagger documentation is included in the application to allow interactive te
 2. **Access Swagger:**
    Open your browser and navigate to:
    ```
-   http://127.0.0.1:5000/api-docs
+   http://127.0.0.1:5000/apidocs/
    ```
 
 3. **Interactive Testing:**
